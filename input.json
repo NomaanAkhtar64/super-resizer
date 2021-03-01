@@ -1,0 +1,13 @@
+[
+  {
+    "image": "1.png",
+    "fit": "contain",
+    "size": [230, 130]
+  },
+  {
+    "image": "2.png",
+    "fit": "cover",
+    "position": "right",
+    "size": [230, 320]
+  }
+]
